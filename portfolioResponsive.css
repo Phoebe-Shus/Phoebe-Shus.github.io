@@ -55,11 +55,11 @@ img, object, embed, video {
 .heroHeader {
 }
 .logo {
-	width: 100%;
+	width: 20%;
 }
 /* Navigation Bar styles */
 .topNav {
-	width: 100%;
+	width: 70%;
 	margin-left: 0;
 	clear: both;
 }
@@ -74,6 +74,7 @@ img, object, embed, video {
 	clear: none;
 	height: auto;
 	position: static;
+	
 }
 
 /* Main heading styles*/

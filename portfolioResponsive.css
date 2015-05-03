@@ -68,6 +68,10 @@ img, object, embed, video {
 	width: 100%;
 	margin-left: 0;
 }
+.topNavUl a:hover,
+.topNavUl a.hover {
+		cursor:pointer;
+}
 .topNavLI {
 	width: 32.2033%;
 	margin-left: 1.6949%;

@@ -46,7 +46,8 @@ a:hover {
 }
 .heroHeader {
 	height: 450px;
-	background-color: rgba(208,207,207,1.00);
+	
+	/*background-color: rgba(208,207,207,1.00);*/
 }
 
 /* Navigation styles*/

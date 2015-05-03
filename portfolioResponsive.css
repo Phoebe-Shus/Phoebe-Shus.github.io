@@ -50,6 +50,21 @@ img, object, embed, video {
 	clear: none;
 	float: none;
 }
+ul.nice{
+width:70;
+height:50px;	
+vertical-align:middle;	
+}
+ul.nice li{
+width:20%;
+height:50px;	
+display:inline-block;		
+}
+ul.nice li a{
+vertical-align:middle;
+text-align:center;	
+}
+
 
 /* Header & HERO styles*/
 .heroHeader {

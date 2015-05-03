@@ -74,7 +74,7 @@ img, object, embed, video {
 	clear: none;
 	height: auto;
 	position: static;
-	
+	color:#000;
 }
 
 /* Main heading styles*/
